@@ -13,7 +13,7 @@ package day2;
  *    21
  *     1
  */
-public class FroLoopExample2 {
+public class ForLoopExample2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
