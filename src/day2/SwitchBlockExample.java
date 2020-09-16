@@ -51,6 +51,7 @@ public class SwitchBlockExample {
 		System.out.println("If you want to continue press 0 or press 1");
 		count=sc.nextInt();
 		}
+		sc.close();
 
 	}
 
